@@ -1,0 +1,30 @@
+{
+    "name" : "Structurizr - Git Icon Pack",
+    "description" : "This theme includes element styles with icons for Structurizr.",
+    "elements" : [ {
+      "tag" : "Git - Orange with words",
+      "stroke" : "#693cc5",
+      "color" : "#693cc5",
+      "icon" : "https://github.com/jesset-truss/structurizr-themes/raw/main/git/images/git_1.png"
+    }, {
+      "tag" : "Git - Orange Symbol",
+      "stroke" : "#d6242d",
+      "color" : "#d6242d",
+      "icon" : "https://github.com/jesset-truss/structurizr-themes/raw/main/git/images/git_2.png"
+    }, {
+      "tag" : "Git - Folder",
+      "stroke" : "#3f8624",
+      "color" : "#3f8624",
+      "icon" : "https://github.com/jesset-truss/structurizr-themes/raw/main/git/images/git_3.png"
+    }, {
+        "tag" : "Git - White with words",
+        "stroke" : "#3f8624",
+        "color" : "#3f8624",
+        "icon" : "https://github.com/jesset-truss/structurizr-themes/raw/main/git/images/git_4.png"
+      }, {
+        "tag" : "Git - Rounded Orange icon with words",
+      "stroke" : "#d86613",
+      "color" : "#d86613",
+      "icon" : "https://github.com/jesset-truss/structurizr-themes/raw/main/git/images/git_5.png"
+    } ]
+  }
